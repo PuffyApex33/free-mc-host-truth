@@ -1,3 +1,5 @@
+> update: i don't want to start a war so this will go archive.
+
 lists of free (and paid one, in the future) mc hosting services (my grammar is pretty trash so yea)
 
 > NOTE: I'M NOT HATING ON ALL OF THE HOSTING SERVICES, I JUST MAKE OPINION AND MY EXPERIENCE WITH IT.
