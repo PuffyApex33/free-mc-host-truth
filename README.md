@@ -13,3 +13,8 @@ lists of free (and paid one, in the future) mc hosting services (my grammar is p
 | falixnodes | 4 gb, plugins, barely no queue | recently changed to 2 gb for free tier, and 20 gb of space, unless if you're trying to recreate the 2b2t spawn, i (kinda) recommended this one. |
 | magmanode | 3 cores (or 2.5 cores if the server expired, not sure yet), 3 gb ram | 5 gb of space, unless if you and your group is trying the experience of unstable smp/lifesteal, i don't recommend this one, why? ram is the same as aternos, but with less space. |
 | ouiheberg | 8 gb ram and 2vcores cpu | requires a bunch of non sense, basically a little bit annoying than oracle cloud, if you don't have a credit card, then yes, it can be annoying. |
+| minefort | good for 10 players, i guess. | server icons is paid, 1 gb ram and 10 gb, but it might be incorrect, since minefort hides the specs unlike other hosters |
+| scalacube | 6 gb ram (sounds too good to be true) | 2 hour (sometimes 48 hour), other types requires premium tier, the only accessable is vanilla and snapshots, paid (yes i forgot this is paid) |
+| server.pro | allows multiple servers, 2 gb ram, ect... | server expires in 1 hour, renewable but only 12 hours, only allow france and canada in free tier |
+
+so, that warps up all the free hostings websites that i could find, obviously i'm missing a lot more than these, there might be thousands of them, just... haven't been founded, yet. and btw, this is only about my opinion and experience about it, you guys will have different opinions, i don't hate ppl that is saying they have different opinions and not the same as mine, and if i have to recommend one hosting? nah, just host your own, it's not that hard. (it is.)
